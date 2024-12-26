@@ -1,5 +1,5 @@
 # hacker_commandes
-put all command to hack 
+
 
 
 ## Hydra (Attaque de services en réseau, ex. SSH, FTP, HTTP):
