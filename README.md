@@ -16,9 +16,9 @@ put all command to hack
 
 ###Aircrack-ng (Force brute de clés Wi-Fi) :
 
-    Capture du handshake :
+Capture du handshake :
 
-airodump-ng wlan0mon
+    airodump-ng wlan0mon
 
 Lancer la force brute sur un handshake capturé :
 
