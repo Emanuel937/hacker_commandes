@@ -2,7 +2,7 @@
 put all command to hack 
 
 
-##Hydra (Attaque de services en réseau, ex. SSH, FTP, HTTP):
+## Hydra (Attaque de services en réseau, ex. SSH, FTP, HTTP):
 
     Installation : sudo apt install hydra
     Commande typique :
@@ -14,7 +14,7 @@ put all command to hack
         -P : Chemin du fichier contenant les mots de passe.
         -t : Nombre de threads (pour accélérer).
 
-###Aircrack-ng (Force brute de clés Wi-Fi) :
+## Aircrack-ng (Force brute de clés Wi-Fi) :
 
 Capture du handshake :
 
@@ -24,7 +24,7 @@ Lancer la force brute sur un handshake capturé :
 
     -aircrack-ng -w /chemin/liste_mots_passe.txt -b [BSSID] fichier_capture.cap
 
-###John the Ripper (Crack de mots de passe hors ligne) :
+## John the Ripper (Crack de mots de passe hors ligne) :
 
     Commande typique :
 
